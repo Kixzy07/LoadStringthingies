@@ -5,7 +5,7 @@ else
 end
 
 local Players = game:GetService("Players")
-local XIIX = game:GetObjects("rbxasset://XIIXPack.Rbxm")[1]:Clone()
+local XIIX = game:GetObjects("rbxasset://XIIXPack.Rbxm")[1]
 _G.GeodeHatting = function()
 	
 	
